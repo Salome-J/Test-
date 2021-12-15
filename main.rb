@@ -1,4 +1,4 @@
 
-puts "enter all your names:"
+puts "enter your name:"
 name=gets
 puts ("Hello " + name )
